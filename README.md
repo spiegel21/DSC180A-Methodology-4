@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Eduardo Spiegel
-espiegel@ucsd.edu
+Eduardo Spiegel and Caleb Stam
